@@ -53,8 +53,5 @@ The code in this replication package is released under the MIT License and the d
 
 ## 👩‍💻 Contact
 
-For questions or issues, feel free to contact:
+For questions or issues, feel free to contact Michael Dorner (<michael.dorner@th-nuernberg.de>)
 
-**Michael Dorner**  
-Email: michael.dorner@th-nuernberg.de 
-Affiliation: Blekinge Institute of Technology, Sweden, and Technische Hochschule Nürnberg, Germany

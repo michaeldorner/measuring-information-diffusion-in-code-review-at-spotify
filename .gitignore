@@ -238,4 +238,5 @@ Icon[]
 
 # Project 
 raw_data/*
+data/*
 similarity_matrix
